@@ -6,7 +6,7 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-This is a simple React framework application
-Utilizing the APIs from JSONPlaceholder
-The app dynamically draws only the cards
+This is a simple React framework application <br>
+Utilizing the APIs from JSONPlaceholder<br>
+The app dynamically draws only the cards<br>
 That are applicable to the content in the search box.
